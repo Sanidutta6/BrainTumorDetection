@@ -11,9 +11,9 @@
 ### Example Input & Output--:
 
 1. Input Image:<br />
-![Input Image](code/testCase.bmp)
+![Input Image](code/testCaseC.bmp)
 
 2. Output Image:<br />
-![Output Image](code/_Result_testCase.bmp)
+![Output Image](code/_Result_testCaseC.bmp)
 
 Thats all.... Thank You....
